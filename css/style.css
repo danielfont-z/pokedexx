@@ -1,0 +1,54 @@
+.index{
+    background-image: url("../img/region\ de\ kanto.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', cursive;
+}
+.index h1{
+    text-align: center;
+}
+.index a {
+    text-decoration: none;
+    color: yellow;
+}
+.index span{
+    background-color: rgba(255, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 50px;
+    color: white;
+}
+.index ul{
+    color: red;
+}
+.index img{
+    width: 25%;
+}
+
+/* blastoise */
+
+.blastoise {
+    background-color: gray;
+    font-family: 'Press Start 2P', cursive;
+}
+.blastoise h1{
+    color:rgb(0, 38, 255); 
+    text-align: center;    
+}
+.blastoise span{
+    background-color: rgb(0, 60, 255); 
+    padding: 2px;
+    border-radius: 5px;  
+}
+.blastoise p{
+    color: white;
+}
+.blastoise b{
+    color: white;
+}
+#inicio{
+    background-color: yellow; 
+    padding: 2px;
+    border-radius: 5px; 
+    color: black;   
+}
